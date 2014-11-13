@@ -1,0 +1,6 @@
+C:\Users\dharmesh\Desktop\EventLogTest\EventLogTest\bin\x64\Debug\EventLogTest.exe.config
+C:\Users\dharmesh\Desktop\EventLogTest\EventLogTest\bin\x64\Debug\EventLogTest.exe
+C:\Users\dharmesh\Desktop\EventLogTest\EventLogTest\bin\x64\Debug\EventLogTest.pdb
+C:\Users\dharmesh\Desktop\EventLogTest\EventLogTest\obj\x64\Debug\EventLogTest.csprojResolveAssemblyReference.cache
+C:\Users\dharmesh\Desktop\EventLogTest\EventLogTest\obj\x64\Debug\EventLogTest.exe
+C:\Users\dharmesh\Desktop\EventLogTest\EventLogTest\obj\x64\Debug\EventLogTest.pdb
